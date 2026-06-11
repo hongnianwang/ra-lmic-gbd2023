@@ -1,0 +1,18 @@
+.DS_Store
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.RDataTmp
+Rplots.pdf
+
+# Large GBD extracts should be obtained from GBD/GHDx and placed locally.
+data/raw/*.csv
+data/raw/*.xlsx
+data/raw/population/
+!data/raw/gni_classification.csv
+data/processed/
+
+# Reproducible outputs.
+outputs/
