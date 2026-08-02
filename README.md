@@ -37,7 +37,20 @@ Generated files are written to `outputs/`.
 
 ## Citation
 
-Citation will be added after publication.
+If you use this code or the associated analysis, please cite:
+
+```bibtex
+@article{wang2026ra-lmic-gbd2023,
+  title   = {Rheumatoid arthritis burden in 129 low- and middle-income countries from 1990 to 2023},
+  author  = {Wang, Hongnian and Zhang, Mingyang and Ke, Xiong and Wang, Zichao and Wu, Lijuan},
+  journal = {iScience},
+  year    = {2026},
+  volume  = {29},
+  number  = {8},
+  pages   = {116881},
+  doi     = {10.1016/j.isci.2026.116881}
+}
+```
 
 ## License
 
